@@ -1,6 +1,6 @@
-# node-express-coffeescript
+# fractional-design
 
-A simple Node template with Express, CoffeeScript, Jade and Connect.
+node-express-coffeescript: A simple Node template with Express, CoffeeScript, Jade and Connect.
 
 ## Dependencies
 This template can be used to create [Node](http://nodejs.org) applications using;
